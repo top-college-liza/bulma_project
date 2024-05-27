@@ -1,0 +1,21 @@
+.intro {
+    background-color: orange;
+    border: none;
+    padding: 0 80px;
+}
+
+.hr {
+    width: 7%;
+    background-color: grey;
+    opacity: .5;
+    height: 4px;
+}
+
+.round {
+    padding: 3rem;
+}
+.footer-input {
+    opacity: .4;
+    border: none;
+    color: white;
+}
